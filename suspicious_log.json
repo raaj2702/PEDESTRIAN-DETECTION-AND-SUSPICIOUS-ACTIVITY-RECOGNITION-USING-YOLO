@@ -1,0 +1,2618 @@
+[
+    {
+        "frame": 11,
+        "type": "loitering",
+        "location": [
+            990,
+            471
+        ]
+    },
+    {
+        "frame": 12,
+        "type": "loitering",
+        "location": [
+            988,
+            474
+        ]
+    },
+    {
+        "frame": 13,
+        "type": "loitering",
+        "location": [
+            981,
+            474
+        ]
+    },
+    {
+        "frame": 14,
+        "type": "loitering",
+        "location": [
+            976,
+            477
+        ]
+    },
+    {
+        "frame": 15,
+        "type": "loitering",
+        "location": [
+            971,
+            477
+        ]
+    },
+    {
+        "frame": 16,
+        "type": "loitering",
+        "location": [
+            962,
+            497
+        ]
+    },
+    {
+        "frame": 16,
+        "type": "running",
+        "location": [
+            962,
+            497
+        ]
+    },
+    {
+        "frame": 17,
+        "type": "loitering",
+        "location": [
+            951,
+            534
+        ]
+    },
+    {
+        "frame": 17,
+        "type": "running",
+        "location": [
+            951,
+            534
+        ]
+    },
+    {
+        "frame": 18,
+        "type": "loitering",
+        "location": [
+            941,
+            541
+        ]
+    },
+    {
+        "frame": 19,
+        "type": "loitering",
+        "location": [
+            931,
+            546
+        ]
+    },
+    {
+        "frame": 20,
+        "type": "loitering",
+        "location": [
+            922,
+            553
+        ]
+    },
+    {
+        "frame": 21,
+        "type": "loitering",
+        "location": [
+            943,
+            559
+        ]
+    },
+    {
+        "frame": 21,
+        "type": "running",
+        "location": [
+            943,
+            559
+        ]
+    },
+    {
+        "frame": 22,
+        "type": "loitering",
+        "location": [
+            940,
+            562
+        ]
+    },
+    {
+        "frame": 23,
+        "type": "loitering",
+        "location": [
+            896,
+            563
+        ]
+    },
+    {
+        "frame": 23,
+        "type": "running",
+        "location": [
+            896,
+            563
+        ]
+    },
+    {
+        "frame": 24,
+        "type": "loitering",
+        "location": [
+            890,
+            565
+        ]
+    },
+    {
+        "frame": 25,
+        "type": "loitering",
+        "location": [
+            879,
+            569
+        ]
+    },
+    {
+        "frame": 26,
+        "type": "loitering",
+        "location": [
+            867,
+            573
+        ]
+    },
+    {
+        "frame": 27,
+        "type": "loitering",
+        "location": [
+            853,
+            574
+        ]
+    },
+    {
+        "frame": 28,
+        "type": "loitering",
+        "location": [
+            840,
+            577
+        ]
+    },
+    {
+        "frame": 29,
+        "type": "loitering",
+        "location": [
+            831,
+            576
+        ]
+    },
+    {
+        "frame": 30,
+        "type": "loitering",
+        "location": [
+            817,
+            578
+        ]
+    },
+    {
+        "frame": 31,
+        "type": "loitering",
+        "location": [
+            805,
+            582
+        ]
+    },
+    {
+        "frame": 32,
+        "type": "loitering",
+        "location": [
+            796,
+            593
+        ]
+    },
+    {
+        "frame": 33,
+        "type": "loitering",
+        "location": [
+            788,
+            602
+        ]
+    },
+    {
+        "frame": 34,
+        "type": "loitering",
+        "location": [
+            781,
+            612
+        ]
+    },
+    {
+        "frame": 35,
+        "type": "loitering",
+        "location": [
+            774,
+            618
+        ]
+    },
+    {
+        "frame": 36,
+        "type": "loitering",
+        "location": [
+            765,
+            623
+        ]
+    },
+    {
+        "frame": 37,
+        "type": "loitering",
+        "location": [
+            759,
+            629
+        ]
+    },
+    {
+        "frame": 38,
+        "type": "loitering",
+        "location": [
+            751,
+            639
+        ]
+    },
+    {
+        "frame": 39,
+        "type": "loitering",
+        "location": [
+            745,
+            636
+        ]
+    },
+    {
+        "frame": 40,
+        "type": "loitering",
+        "location": [
+            736,
+            639
+        ]
+    },
+    {
+        "frame": 41,
+        "type": "loitering",
+        "location": [
+            730,
+            641
+        ]
+    },
+    {
+        "frame": 42,
+        "type": "loitering",
+        "location": [
+            721,
+            641
+        ]
+    },
+    {
+        "frame": 43,
+        "type": "loitering",
+        "location": [
+            712,
+            641
+        ]
+    },
+    {
+        "frame": 44,
+        "type": "loitering",
+        "location": [
+            705,
+            641
+        ]
+    },
+    {
+        "frame": 45,
+        "type": "loitering",
+        "location": [
+            700,
+            639
+        ]
+    },
+    {
+        "frame": 46,
+        "type": "loitering",
+        "location": [
+            696,
+            635
+        ]
+    },
+    {
+        "frame": 47,
+        "type": "loitering",
+        "location": [
+            689,
+            636
+        ]
+    },
+    {
+        "frame": 48,
+        "type": "loitering",
+        "location": [
+            683,
+            634
+        ]
+    },
+    {
+        "frame": 49,
+        "type": "loitering",
+        "location": [
+            676,
+            637
+        ]
+    },
+    {
+        "frame": 50,
+        "type": "loitering",
+        "location": [
+            673,
+            646
+        ]
+    },
+    {
+        "frame": 51,
+        "type": "loitering",
+        "location": [
+            674,
+            660
+        ]
+    },
+    {
+        "frame": 52,
+        "type": "loitering",
+        "location": [
+            655,
+            670
+        ]
+    },
+    {
+        "frame": 52,
+        "type": "running",
+        "location": [
+            655,
+            670
+        ]
+    },
+    {
+        "frame": 53,
+        "type": "loitering",
+        "location": [
+            652,
+            673
+        ]
+    },
+    {
+        "frame": 53,
+        "type": "running",
+        "location": [
+            1425,
+            271
+        ]
+    },
+    {
+        "frame": 54,
+        "type": "loitering",
+        "location": [
+            643,
+            682
+        ]
+    },
+    {
+        "frame": 55,
+        "type": "loitering",
+        "location": [
+            636,
+            684
+        ]
+    },
+    {
+        "frame": 56,
+        "type": "loitering",
+        "location": [
+            630,
+            683
+        ]
+    },
+    {
+        "frame": 56,
+        "type": "running",
+        "location": [
+            1396,
+            270
+        ]
+    },
+    {
+        "frame": 57,
+        "type": "loitering",
+        "location": [
+            628,
+            681
+        ]
+    },
+    {
+        "frame": 58,
+        "type": "loitering",
+        "location": [
+            622,
+            676
+        ]
+    },
+    {
+        "frame": 59,
+        "type": "loitering",
+        "location": [
+            614,
+            670
+        ]
+    },
+    {
+        "frame": 60,
+        "type": "loitering",
+        "location": [
+            608,
+            670
+        ]
+    },
+    {
+        "frame": 61,
+        "type": "loitering",
+        "location": [
+            602,
+            666
+        ]
+    },
+    {
+        "frame": 62,
+        "type": "loitering",
+        "location": [
+            594,
+            662
+        ]
+    },
+    {
+        "frame": 62,
+        "type": "loitering",
+        "location": [
+            1350,
+            237
+        ]
+    },
+    {
+        "frame": 63,
+        "type": "loitering",
+        "location": [
+            583,
+            656
+        ]
+    },
+    {
+        "frame": 63,
+        "type": "loitering",
+        "location": [
+            1342,
+            234
+        ]
+    },
+    {
+        "frame": 64,
+        "type": "loitering",
+        "location": [
+            582,
+            659
+        ]
+    },
+    {
+        "frame": 64,
+        "type": "loitering",
+        "location": [
+            1341,
+            217
+        ]
+    },
+    {
+        "frame": 65,
+        "type": "loitering",
+        "location": [
+            577,
+            654
+        ]
+    },
+    {
+        "frame": 65,
+        "type": "loitering",
+        "location": [
+            1333,
+            219
+        ]
+    },
+    {
+        "frame": 66,
+        "type": "loitering",
+        "location": [
+            573,
+            677
+        ]
+    },
+    {
+        "frame": 66,
+        "type": "running",
+        "location": [
+            573,
+            677
+        ]
+    },
+    {
+        "frame": 66,
+        "type": "loitering",
+        "location": [
+            1326,
+            217
+        ]
+    },
+    {
+        "frame": 67,
+        "type": "loitering",
+        "location": [
+            568,
+            688
+        ]
+    },
+    {
+        "frame": 67,
+        "type": "loitering",
+        "location": [
+            1321,
+            210
+        ]
+    },
+    {
+        "frame": 68,
+        "type": "loitering",
+        "location": [
+            561,
+            696
+        ]
+    },
+    {
+        "frame": 68,
+        "type": "loitering",
+        "location": [
+            1314,
+            206
+        ]
+    },
+    {
+        "frame": 69,
+        "type": "loitering",
+        "location": [
+            556,
+            704
+        ]
+    },
+    {
+        "frame": 69,
+        "type": "loitering",
+        "location": [
+            1306,
+            203
+        ]
+    },
+    {
+        "frame": 70,
+        "type": "loitering",
+        "location": [
+            551,
+            710
+        ]
+    },
+    {
+        "frame": 70,
+        "type": "loitering",
+        "location": [
+            1297,
+            215
+        ]
+    },
+    {
+        "frame": 71,
+        "type": "loitering",
+        "location": [
+            545,
+            717
+        ]
+    },
+    {
+        "frame": 71,
+        "type": "loitering",
+        "location": [
+            1292,
+            217
+        ]
+    },
+    {
+        "frame": 72,
+        "type": "loitering",
+        "location": [
+            540,
+            727
+        ]
+    },
+    {
+        "frame": 72,
+        "type": "loitering",
+        "location": [
+            1287,
+            211
+        ]
+    },
+    {
+        "frame": 73,
+        "type": "loitering",
+        "location": [
+            535,
+            735
+        ]
+    },
+    {
+        "frame": 73,
+        "type": "loitering",
+        "location": [
+            1281,
+            235
+        ]
+    },
+    {
+        "frame": 73,
+        "type": "running",
+        "location": [
+            1281,
+            235
+        ]
+    },
+    {
+        "frame": 74,
+        "type": "loitering",
+        "location": [
+            527,
+            743
+        ]
+    },
+    {
+        "frame": 74,
+        "type": "loitering",
+        "location": [
+            1270,
+            236
+        ]
+    },
+    {
+        "frame": 75,
+        "type": "loitering",
+        "location": [
+            520,
+            753
+        ]
+    },
+    {
+        "frame": 75,
+        "type": "loitering",
+        "location": [
+            1263,
+            232
+        ]
+    },
+    {
+        "frame": 76,
+        "type": "loitering",
+        "location": [
+            507,
+            752
+        ]
+    },
+    {
+        "frame": 76,
+        "type": "loitering",
+        "location": [
+            1247,
+            237
+        ]
+    },
+    {
+        "frame": 77,
+        "type": "loitering",
+        "location": [
+            497,
+            757
+        ]
+    },
+    {
+        "frame": 77,
+        "type": "loitering",
+        "location": [
+            1233,
+            243
+        ]
+    },
+    {
+        "frame": 78,
+        "type": "loitering",
+        "location": [
+            487,
+            763
+        ]
+    },
+    {
+        "frame": 78,
+        "type": "loitering",
+        "location": [
+            1222,
+            243
+        ]
+    },
+    {
+        "frame": 79,
+        "type": "loitering",
+        "location": [
+            479,
+            769
+        ]
+    },
+    {
+        "frame": 79,
+        "type": "loitering",
+        "location": [
+            1212,
+            245
+        ]
+    },
+    {
+        "frame": 80,
+        "type": "loitering",
+        "location": [
+            475,
+            771
+        ]
+    },
+    {
+        "frame": 80,
+        "type": "loitering",
+        "location": [
+            1205,
+            248
+        ]
+    },
+    {
+        "frame": 81,
+        "type": "loitering",
+        "location": [
+            470,
+            756
+        ]
+    },
+    {
+        "frame": 81,
+        "type": "loitering",
+        "location": [
+            1201,
+            248
+        ]
+    },
+    {
+        "frame": 82,
+        "type": "loitering",
+        "location": [
+            462,
+            796
+        ]
+    },
+    {
+        "frame": 82,
+        "type": "running",
+        "location": [
+            462,
+            796
+        ]
+    },
+    {
+        "frame": 82,
+        "type": "loitering",
+        "location": [
+            1199,
+            249
+        ]
+    },
+    {
+        "frame": 83,
+        "type": "loitering",
+        "location": [
+            454,
+            797
+        ]
+    },
+    {
+        "frame": 83,
+        "type": "loitering",
+        "location": [
+            1193,
+            217
+        ]
+    },
+    {
+        "frame": 83,
+        "type": "running",
+        "location": [
+            1193,
+            217
+        ]
+    },
+    {
+        "frame": 84,
+        "type": "loitering",
+        "location": [
+            447,
+            810
+        ]
+    },
+    {
+        "frame": 84,
+        "type": "loitering",
+        "location": [
+            1187,
+            249
+        ]
+    },
+    {
+        "frame": 84,
+        "type": "running",
+        "location": [
+            1187,
+            249
+        ]
+    },
+    {
+        "frame": 85,
+        "type": "loitering",
+        "location": [
+            438,
+            814
+        ]
+    },
+    {
+        "frame": 85,
+        "type": "loitering",
+        "location": [
+            1172,
+            244
+        ]
+    },
+    {
+        "frame": 86,
+        "type": "loitering",
+        "location": [
+            427,
+            820
+        ]
+    },
+    {
+        "frame": 86,
+        "type": "loitering",
+        "location": [
+            1169,
+            239
+        ]
+    },
+    {
+        "frame": 87,
+        "type": "loitering",
+        "location": [
+            419,
+            825
+        ]
+    },
+    {
+        "frame": 87,
+        "type": "loitering",
+        "location": [
+            1160,
+            276
+        ]
+    },
+    {
+        "frame": 87,
+        "type": "running",
+        "location": [
+            1160,
+            276
+        ]
+    },
+    {
+        "frame": 88,
+        "type": "loitering",
+        "location": [
+            406,
+            835
+        ]
+    },
+    {
+        "frame": 88,
+        "type": "loitering",
+        "location": [
+            1158,
+            282
+        ]
+    },
+    {
+        "frame": 89,
+        "type": "loitering",
+        "location": [
+            398,
+            841
+        ]
+    },
+    {
+        "frame": 89,
+        "type": "loitering",
+        "location": [
+            1157,
+            293
+        ]
+    },
+    {
+        "frame": 90,
+        "type": "loitering",
+        "location": [
+            388,
+            847
+        ]
+    },
+    {
+        "frame": 90,
+        "type": "loitering",
+        "location": [
+            1165,
+            296
+        ]
+    },
+    {
+        "frame": 91,
+        "type": "loitering",
+        "location": [
+            377,
+            858
+        ]
+    },
+    {
+        "frame": 91,
+        "type": "loitering",
+        "location": [
+            1155,
+            300
+        ]
+    },
+    {
+        "frame": 92,
+        "type": "loitering",
+        "location": [
+            1141,
+            304
+        ]
+    },
+    {
+        "frame": 92,
+        "type": "loitering",
+        "location": [
+            363,
+            867
+        ]
+    },
+    {
+        "frame": 93,
+        "type": "loitering",
+        "location": [
+            351,
+            876
+        ]
+    },
+    {
+        "frame": 93,
+        "type": "loitering",
+        "location": [
+            1139,
+            305
+        ]
+    },
+    {
+        "frame": 94,
+        "type": "loitering",
+        "location": [
+            337,
+            884
+        ]
+    },
+    {
+        "frame": 94,
+        "type": "loitering",
+        "location": [
+            1135,
+            307
+        ]
+    },
+    {
+        "frame": 95,
+        "type": "loitering",
+        "location": [
+            321,
+            888
+        ]
+    },
+    {
+        "frame": 95,
+        "type": "loitering",
+        "location": [
+            1139,
+            315
+        ]
+    },
+    {
+        "frame": 96,
+        "type": "loitering",
+        "location": [
+            303,
+            893
+        ]
+    },
+    {
+        "frame": 96,
+        "type": "loitering",
+        "location": [
+            1132,
+            324
+        ]
+    },
+    {
+        "frame": 97,
+        "type": "loitering",
+        "location": [
+            288,
+            896
+        ]
+    },
+    {
+        "frame": 97,
+        "type": "loitering",
+        "location": [
+            1138,
+            331
+        ]
+    },
+    {
+        "frame": 98,
+        "type": "loitering",
+        "location": [
+            268,
+            896
+        ]
+    },
+    {
+        "frame": 98,
+        "type": "loitering",
+        "location": [
+            1119,
+            336
+        ]
+    },
+    {
+        "frame": 99,
+        "type": "loitering",
+        "location": [
+            251,
+            900
+        ]
+    },
+    {
+        "frame": 99,
+        "type": "loitering",
+        "location": [
+            1107,
+            342
+        ]
+    },
+    {
+        "frame": 100,
+        "type": "loitering",
+        "location": [
+            229,
+            903
+        ]
+    },
+    {
+        "frame": 100,
+        "type": "running",
+        "location": [
+            229,
+            903
+        ]
+    },
+    {
+        "frame": 100,
+        "type": "loitering",
+        "location": [
+            1089,
+            345
+        ]
+    },
+    {
+        "frame": 101,
+        "type": "loitering",
+        "location": [
+            1078,
+            348
+        ]
+    },
+    {
+        "frame": 101,
+        "type": "loitering",
+        "location": [
+            208,
+            905
+        ]
+    },
+    {
+        "frame": 101,
+        "type": "running",
+        "location": [
+            208,
+            905
+        ]
+    },
+    {
+        "frame": 102,
+        "type": "loitering",
+        "location": [
+            1067,
+            353
+        ]
+    },
+    {
+        "frame": 102,
+        "type": "loitering",
+        "location": [
+            196,
+            910
+        ]
+    },
+    {
+        "frame": 103,
+        "type": "loitering",
+        "location": [
+            1058,
+            361
+        ]
+    },
+    {
+        "frame": 103,
+        "type": "loitering",
+        "location": [
+            176,
+            913
+        ]
+    },
+    {
+        "frame": 103,
+        "type": "running",
+        "location": [
+            176,
+            913
+        ]
+    },
+    {
+        "frame": 104,
+        "type": "loitering",
+        "location": [
+            1051,
+            366
+        ]
+    },
+    {
+        "frame": 104,
+        "type": "loitering",
+        "location": [
+            159,
+            917
+        ]
+    },
+    {
+        "frame": 105,
+        "type": "loitering",
+        "location": [
+            1046,
+            371
+        ]
+    },
+    {
+        "frame": 105,
+        "type": "loitering",
+        "location": [
+            139,
+            923
+        ]
+    },
+    {
+        "frame": 105,
+        "type": "running",
+        "location": [
+            139,
+            923
+        ]
+    },
+    {
+        "frame": 106,
+        "type": "loitering",
+        "location": [
+            1042,
+            376
+        ]
+    },
+    {
+        "frame": 106,
+        "type": "loitering",
+        "location": [
+            139,
+            930
+        ]
+    },
+    {
+        "frame": 107,
+        "type": "loitering",
+        "location": [
+            1033,
+            377
+        ]
+    },
+    {
+        "frame": 107,
+        "type": "loitering",
+        "location": [
+            125,
+            938
+        ]
+    },
+    {
+        "frame": 108,
+        "type": "loitering",
+        "location": [
+            1022,
+            379
+        ]
+    },
+    {
+        "frame": 108,
+        "type": "loitering",
+        "location": [
+            110,
+            945
+        ]
+    },
+    {
+        "frame": 109,
+        "type": "loitering",
+        "location": [
+            1008,
+            378
+        ]
+    },
+    {
+        "frame": 109,
+        "type": "loitering",
+        "location": [
+            103,
+            952
+        ]
+    },
+    {
+        "frame": 110,
+        "type": "loitering",
+        "location": [
+            996,
+            378
+        ]
+    },
+    {
+        "frame": 110,
+        "type": "loitering",
+        "location": [
+            89,
+            959
+        ]
+    },
+    {
+        "frame": 111,
+        "type": "loitering",
+        "location": [
+            987,
+            377
+        ]
+    },
+    {
+        "frame": 111,
+        "type": "loitering",
+        "location": [
+            71,
+            973
+        ]
+    },
+    {
+        "frame": 111,
+        "type": "running",
+        "location": [
+            71,
+            973
+        ]
+    },
+    {
+        "frame": 112,
+        "type": "loitering",
+        "location": [
+            982,
+            378
+        ]
+    },
+    {
+        "frame": 113,
+        "type": "loitering",
+        "location": [
+            973,
+            382
+        ]
+    },
+    {
+        "frame": 114,
+        "type": "loitering",
+        "location": [
+            959,
+            385
+        ]
+    },
+    {
+        "frame": 115,
+        "type": "loitering",
+        "location": [
+            947,
+            391
+        ]
+    },
+    {
+        "frame": 116,
+        "type": "loitering",
+        "location": [
+            938,
+            396
+        ]
+    },
+    {
+        "frame": 117,
+        "type": "loitering",
+        "location": [
+            929,
+            397
+        ]
+    },
+    {
+        "frame": 118,
+        "type": "loitering",
+        "location": [
+            921,
+            403
+        ]
+    },
+    {
+        "frame": 119,
+        "type": "loitering",
+        "location": [
+            914,
+            411
+        ]
+    },
+    {
+        "frame": 120,
+        "type": "loitering",
+        "location": [
+            906,
+            420
+        ]
+    },
+    {
+        "frame": 121,
+        "type": "loitering",
+        "location": [
+            902,
+            426
+        ]
+    },
+    {
+        "frame": 122,
+        "type": "loitering",
+        "location": [
+            901,
+            434
+        ]
+    },
+    {
+        "frame": 123,
+        "type": "loitering",
+        "location": [
+            904,
+            440
+        ]
+    },
+    {
+        "frame": 124,
+        "type": "loitering",
+        "location": [
+            904,
+            442
+        ]
+    },
+    {
+        "frame": 125,
+        "type": "loitering",
+        "location": [
+            901,
+            443
+        ]
+    },
+    {
+        "frame": 126,
+        "type": "loitering",
+        "location": [
+            894,
+            442
+        ]
+    },
+    {
+        "frame": 127,
+        "type": "loitering",
+        "location": [
+            889,
+            445
+        ]
+    },
+    {
+        "frame": 128,
+        "type": "loitering",
+        "location": [
+            884,
+            447
+        ]
+    },
+    {
+        "frame": 129,
+        "type": "loitering",
+        "location": [
+            881,
+            451
+        ]
+    },
+    {
+        "frame": 130,
+        "type": "loitering",
+        "location": [
+            885,
+            462
+        ]
+    },
+    {
+        "frame": 131,
+        "type": "loitering",
+        "location": [
+            884,
+            469
+        ]
+    },
+    {
+        "frame": 132,
+        "type": "loitering",
+        "location": [
+            880,
+            470
+        ]
+    },
+    {
+        "frame": 133,
+        "type": "loitering",
+        "location": [
+            872,
+            475
+        ]
+    },
+    {
+        "frame": 134,
+        "type": "loitering",
+        "location": [
+            862,
+            474
+        ]
+    },
+    {
+        "frame": 135,
+        "type": "loitering",
+        "location": [
+            853,
+            482
+        ]
+    },
+    {
+        "frame": 136,
+        "type": "loitering",
+        "location": [
+            840,
+            485
+        ]
+    },
+    {
+        "frame": 137,
+        "type": "loitering",
+        "location": [
+            830,
+            489
+        ]
+    },
+    {
+        "frame": 138,
+        "type": "loitering",
+        "location": [
+            823,
+            493
+        ]
+    },
+    {
+        "frame": 139,
+        "type": "loitering",
+        "location": [
+            817,
+            501
+        ]
+    },
+    {
+        "frame": 140,
+        "type": "loitering",
+        "location": [
+            810,
+            502
+        ]
+    },
+    {
+        "frame": 141,
+        "type": "loitering",
+        "location": [
+            800,
+            499
+        ]
+    },
+    {
+        "frame": 142,
+        "type": "loitering",
+        "location": [
+            791,
+            497
+        ]
+    },
+    {
+        "frame": 143,
+        "type": "loitering",
+        "location": [
+            782,
+            496
+        ]
+    },
+    {
+        "frame": 144,
+        "type": "loitering",
+        "location": [
+            773,
+            494
+        ]
+    },
+    {
+        "frame": 145,
+        "type": "loitering",
+        "location": [
+            769,
+            491
+        ]
+    },
+    {
+        "frame": 146,
+        "type": "loitering",
+        "location": [
+            754,
+            493
+        ]
+    },
+    {
+        "frame": 147,
+        "type": "loitering",
+        "location": [
+            745,
+            507
+        ]
+    },
+    {
+        "frame": 148,
+        "type": "loitering",
+        "location": [
+            731,
+            518
+        ]
+    },
+    {
+        "frame": 149,
+        "type": "loitering",
+        "location": [
+            725,
+            523
+        ]
+    },
+    {
+        "frame": 150,
+        "type": "loitering",
+        "location": [
+            718,
+            530
+        ]
+    },
+    {
+        "frame": 151,
+        "type": "loitering",
+        "location": [
+            709,
+            540
+        ]
+    },
+    {
+        "frame": 152,
+        "type": "loitering",
+        "location": [
+            702,
+            549
+        ]
+    },
+    {
+        "frame": 153,
+        "type": "loitering",
+        "location": [
+            694,
+            560
+        ]
+    },
+    {
+        "frame": 154,
+        "type": "loitering",
+        "location": [
+            690,
+            574
+        ]
+    },
+    {
+        "frame": 155,
+        "type": "loitering",
+        "location": [
+            683,
+            579
+        ]
+    },
+    {
+        "frame": 156,
+        "type": "loitering",
+        "location": [
+            672,
+            578
+        ]
+    },
+    {
+        "frame": 157,
+        "type": "loitering",
+        "location": [
+            665,
+            582
+        ]
+    },
+    {
+        "frame": 158,
+        "type": "loitering",
+        "location": [
+            656,
+            582
+        ]
+    },
+    {
+        "frame": 159,
+        "type": "loitering",
+        "location": [
+            648,
+            580
+        ]
+    },
+    {
+        "frame": 160,
+        "type": "loitering",
+        "location": [
+            639,
+            583
+        ]
+    },
+    {
+        "frame": 161,
+        "type": "loitering",
+        "location": [
+            632,
+            597
+        ]
+    },
+    {
+        "frame": 162,
+        "type": "loitering",
+        "location": [
+            622,
+            612
+        ]
+    },
+    {
+        "frame": 163,
+        "type": "loitering",
+        "location": [
+            615,
+            622
+        ]
+    },
+    {
+        "frame": 164,
+        "type": "loitering",
+        "location": [
+            607,
+            631
+        ]
+    },
+    {
+        "frame": 165,
+        "type": "loitering",
+        "location": [
+            597,
+            639
+        ]
+    },
+    {
+        "frame": 166,
+        "type": "loitering",
+        "location": [
+            588,
+            648
+        ]
+    },
+    {
+        "frame": 167,
+        "type": "loitering",
+        "location": [
+            577,
+            662
+        ]
+    },
+    {
+        "frame": 168,
+        "type": "loitering",
+        "location": [
+            563,
+            673
+        ]
+    },
+    {
+        "frame": 169,
+        "type": "loitering",
+        "location": [
+            553,
+            681
+        ]
+    },
+    {
+        "frame": 170,
+        "type": "loitering",
+        "location": [
+            543,
+            680
+        ]
+    },
+    {
+        "frame": 171,
+        "type": "loitering",
+        "location": [
+            530,
+            679
+        ]
+    },
+    {
+        "frame": 172,
+        "type": "loitering",
+        "location": [
+            519,
+            677
+        ]
+    },
+    {
+        "frame": 173,
+        "type": "loitering",
+        "location": [
+            505,
+            674
+        ]
+    },
+    {
+        "frame": 174,
+        "type": "loitering",
+        "location": [
+            495,
+            672
+        ]
+    },
+    {
+        "frame": 175,
+        "type": "loitering",
+        "location": [
+            488,
+            669
+        ]
+    },
+    {
+        "frame": 176,
+        "type": "loitering",
+        "location": [
+            473,
+            670
+        ]
+    },
+    {
+        "frame": 177,
+        "type": "loitering",
+        "location": [
+            462,
+            682
+        ]
+    },
+    {
+        "frame": 178,
+        "type": "loitering",
+        "location": [
+            452,
+            691
+        ]
+    },
+    {
+        "frame": 179,
+        "type": "loitering",
+        "location": [
+            443,
+            697
+        ]
+    },
+    {
+        "frame": 180,
+        "type": "loitering",
+        "location": [
+            433,
+            703
+        ]
+    },
+    {
+        "frame": 181,
+        "type": "loitering",
+        "location": [
+            428,
+            707
+        ]
+    },
+    {
+        "frame": 182,
+        "type": "loitering",
+        "location": [
+            420,
+            711
+        ]
+    },
+    {
+        "frame": 183,
+        "type": "loitering",
+        "location": [
+            416,
+            714
+        ]
+    },
+    {
+        "frame": 184,
+        "type": "loitering",
+        "location": [
+            406,
+            717
+        ]
+    },
+    {
+        "frame": 185,
+        "type": "loitering",
+        "location": [
+            395,
+            719
+        ]
+    },
+    {
+        "frame": 186,
+        "type": "loitering",
+        "location": [
+            383,
+            719
+        ]
+    },
+    {
+        "frame": 187,
+        "type": "loitering",
+        "location": [
+            374,
+            715
+        ]
+    },
+    {
+        "frame": 188,
+        "type": "loitering",
+        "location": [
+            365,
+            710
+        ]
+    },
+    {
+        "frame": 189,
+        "type": "loitering",
+        "location": [
+            356,
+            710
+        ]
+    },
+    {
+        "frame": 190,
+        "type": "loitering",
+        "location": [
+            345,
+            720
+        ]
+    },
+    {
+        "frame": 191,
+        "type": "loitering",
+        "location": [
+            337,
+            716
+        ]
+    },
+    {
+        "frame": 192,
+        "type": "loitering",
+        "location": [
+            327,
+            715
+        ]
+    },
+    {
+        "frame": 193,
+        "type": "loitering",
+        "location": [
+            318,
+            715
+        ]
+    },
+    {
+        "frame": 194,
+        "type": "loitering",
+        "location": [
+            307,
+            715
+        ]
+    },
+    {
+        "frame": 195,
+        "type": "loitering",
+        "location": [
+            298,
+            715
+        ]
+    },
+    {
+        "frame": 196,
+        "type": "loitering",
+        "location": [
+            285,
+            718
+        ]
+    },
+    {
+        "frame": 197,
+        "type": "loitering",
+        "location": [
+            270,
+            719
+        ]
+    },
+    {
+        "frame": 198,
+        "type": "loitering",
+        "location": [
+            257,
+            721
+        ]
+    },
+    {
+        "frame": 199,
+        "type": "loitering",
+        "location": [
+            247,
+            721
+        ]
+    },
+    {
+        "frame": 200,
+        "type": "loitering",
+        "location": [
+            232,
+            719
+        ]
+    },
+    {
+        "frame": 201,
+        "type": "loitering",
+        "location": [
+            222,
+            719
+        ]
+    },
+    {
+        "frame": 202,
+        "type": "loitering",
+        "location": [
+            209,
+            718
+        ]
+    },
+    {
+        "frame": 203,
+        "type": "loitering",
+        "location": [
+            192,
+            720
+        ]
+    },
+    {
+        "frame": 204,
+        "type": "loitering",
+        "location": [
+            182,
+            719
+        ]
+    },
+    {
+        "frame": 205,
+        "type": "loitering",
+        "location": [
+            180,
+            719
+        ]
+    },
+    {
+        "frame": 206,
+        "type": "loitering",
+        "location": [
+            178,
+            719
+        ]
+    },
+    {
+        "frame": 207,
+        "type": "loitering",
+        "location": [
+            177,
+            718
+        ]
+    },
+    {
+        "frame": 208,
+        "type": "loitering",
+        "location": [
+            175,
+            720
+        ]
+    },
+    {
+        "frame": 209,
+        "type": "loitering",
+        "location": [
+            168,
+            723
+        ]
+    },
+    {
+        "frame": 210,
+        "type": "loitering",
+        "location": [
+            162,
+            725
+        ]
+    },
+    {
+        "frame": 211,
+        "type": "loitering",
+        "location": [
+            151,
+            727
+        ]
+    },
+    {
+        "frame": 212,
+        "type": "loitering",
+        "location": [
+            146,
+            730
+        ]
+    },
+    {
+        "frame": 213,
+        "type": "loitering",
+        "location": [
+            145,
+            733
+        ]
+    },
+    {
+        "frame": 214,
+        "type": "loitering",
+        "location": [
+            144,
+            739
+        ]
+    },
+    {
+        "frame": 215,
+        "type": "loitering",
+        "location": [
+            141,
+            742
+        ]
+    },
+    {
+        "frame": 216,
+        "type": "loitering",
+        "location": [
+            139,
+            745
+        ]
+    },
+    {
+        "frame": 217,
+        "type": "loitering",
+        "location": [
+            137,
+            748
+        ]
+    },
+    {
+        "frame": 218,
+        "type": "loitering",
+        "location": [
+            136,
+            751
+        ]
+    },
+    {
+        "frame": 219,
+        "type": "loitering",
+        "location": [
+            138,
+            753
+        ]
+    },
+    {
+        "frame": 220,
+        "type": "loitering",
+        "location": [
+            140,
+            757
+        ]
+    },
+    {
+        "frame": 221,
+        "type": "loitering",
+        "location": [
+            139,
+            761
+        ]
+    },
+    {
+        "frame": 222,
+        "type": "loitering",
+        "location": [
+            139,
+            765
+        ]
+    },
+    {
+        "frame": 223,
+        "type": "loitering",
+        "location": [
+            139,
+            769
+        ]
+    },
+    {
+        "frame": 224,
+        "type": "loitering",
+        "location": [
+            141,
+            775
+        ]
+    },
+    {
+        "frame": 225,
+        "type": "loitering",
+        "location": [
+            143,
+            780
+        ]
+    },
+    {
+        "frame": 226,
+        "type": "loitering",
+        "location": [
+            147,
+            786
+        ]
+    },
+    {
+        "frame": 227,
+        "type": "loitering",
+        "location": [
+            152,
+            792
+        ]
+    },
+    {
+        "frame": 228,
+        "type": "loitering",
+        "location": [
+            156,
+            796
+        ]
+    },
+    {
+        "frame": 229,
+        "type": "loitering",
+        "location": [
+            159,
+            800
+        ]
+    },
+    {
+        "frame": 230,
+        "type": "loitering",
+        "location": [
+            164,
+            806
+        ]
+    },
+    {
+        "frame": 231,
+        "type": "loitering",
+        "location": [
+            170,
+            811
+        ]
+    },
+    {
+        "frame": 232,
+        "type": "loitering",
+        "location": [
+            175,
+            815
+        ]
+    },
+    {
+        "frame": 233,
+        "type": "loitering",
+        "location": [
+            180,
+            818
+        ]
+    },
+    {
+        "frame": 234,
+        "type": "loitering",
+        "location": [
+            186,
+            821
+        ]
+    },
+    {
+        "frame": 235,
+        "type": "loitering",
+        "location": [
+            191,
+            825
+        ]
+    },
+    {
+        "frame": 236,
+        "type": "loitering",
+        "location": [
+            196,
+            827
+        ]
+    },
+    {
+        "frame": 237,
+        "type": "loitering",
+        "location": [
+            202,
+            830
+        ]
+    },
+    {
+        "frame": 238,
+        "type": "loitering",
+        "location": [
+            209,
+            833
+        ]
+    },
+    {
+        "frame": 238,
+        "type": "falling",
+        "location": [
+            209,
+            833
+        ]
+    },
+    {
+        "frame": 239,
+        "type": "loitering",
+        "location": [
+            216,
+            837
+        ]
+    },
+    {
+        "frame": 239,
+        "type": "falling",
+        "location": [
+            216,
+            837
+        ]
+    },
+    {
+        "frame": 240,
+        "type": "loitering",
+        "location": [
+            232,
+            842
+        ]
+    },
+    {
+        "frame": 240,
+        "type": "falling",
+        "location": [
+            232,
+            842
+        ]
+    },
+    {
+        "frame": 241,
+        "type": "loitering",
+        "location": [
+            250,
+            848
+        ]
+    },
+    {
+        "frame": 241,
+        "type": "falling",
+        "location": [
+            250,
+            848
+        ]
+    },
+    {
+        "frame": 242,
+        "type": "loitering",
+        "location": [
+            274,
+            856
+        ]
+    },
+    {
+        "frame": 242,
+        "type": "running",
+        "location": [
+            274,
+            856
+        ]
+    },
+    {
+        "frame": 242,
+        "type": "falling",
+        "location": [
+            274,
+            856
+        ]
+    },
+    {
+        "frame": 243,
+        "type": "loitering",
+        "location": [
+            294,
+            865
+        ]
+    },
+    {
+        "frame": 243,
+        "type": "running",
+        "location": [
+            294,
+            865
+        ]
+    },
+    {
+        "frame": 243,
+        "type": "falling",
+        "location": [
+            294,
+            865
+        ]
+    },
+    {
+        "frame": 244,
+        "type": "loitering",
+        "location": [
+            312,
+            873
+        ]
+    },
+    {
+        "frame": 244,
+        "type": "falling",
+        "location": [
+            312,
+            873
+        ]
+    },
+    {
+        "frame": 245,
+        "type": "loitering",
+        "location": [
+            328,
+            884
+        ]
+    },
+    {
+        "frame": 245,
+        "type": "falling",
+        "location": [
+            328,
+            884
+        ]
+    },
+    {
+        "frame": 246,
+        "type": "loitering",
+        "location": [
+            341,
+            890
+        ]
+    },
+    {
+        "frame": 246,
+        "type": "falling",
+        "location": [
+            341,
+            890
+        ]
+    },
+    {
+        "frame": 247,
+        "type": "loitering",
+        "location": [
+            352,
+            900
+        ]
+    },
+    {
+        "frame": 247,
+        "type": "falling",
+        "location": [
+            352,
+            900
+        ]
+    },
+    {
+        "frame": 248,
+        "type": "loitering",
+        "location": [
+            359,
+            909
+        ]
+    },
+    {
+        "frame": 248,
+        "type": "falling",
+        "location": [
+            359,
+            909
+        ]
+    },
+    {
+        "frame": 249,
+        "type": "loitering",
+        "location": [
+            366,
+            915
+        ]
+    },
+    {
+        "frame": 249,
+        "type": "falling",
+        "location": [
+            366,
+            915
+        ]
+    },
+    {
+        "frame": 250,
+        "type": "loitering",
+        "location": [
+            373,
+            920
+        ]
+    },
+    {
+        "frame": 250,
+        "type": "falling",
+        "location": [
+            373,
+            920
+        ]
+    },
+    {
+        "frame": 251,
+        "type": "loitering",
+        "location": [
+            383,
+            925
+        ]
+    },
+    {
+        "frame": 251,
+        "type": "falling",
+        "location": [
+            383,
+            925
+        ]
+    },
+    {
+        "frame": 252,
+        "type": "loitering",
+        "location": [
+            393,
+            930
+        ]
+    },
+    {
+        "frame": 252,
+        "type": "falling",
+        "location": [
+            393,
+            930
+        ]
+    }
+]
